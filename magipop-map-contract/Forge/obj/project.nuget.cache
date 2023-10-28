@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "hy6TZldQjpy0pfSUPhfiAE2AAv66wr4m9l9+ifcMqwTej+faMeUGIhlNI6479u/aAWLJ2xvm4Q/0MigorT8Tuw==",
+  "success": true,
+  "projectFilePath": "/Users/race/Documents/Forge/Forge.csproj",
+  "expectedPackageFiles": [
+    "/Users/race/.nuget/packages/neo.smartcontract.framework/3.6.0/neo.smartcontract.framework.3.6.0.nupkg.sha512",
+    "/Users/race/.nuget/packages/neo3.compiler.csharp.dev/3.6.0/neo3.compiler.csharp.dev.3.6.0.nupkg.sha512"
+  ],
+  "logs": []
+}

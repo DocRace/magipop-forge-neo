@@ -1,0 +1,12 @@
+/Users/race/Documents/Forge/obj/Debug/net7.0/Forge.csproj.AssemblyReference.cache
+/Users/race/Documents/Forge/obj/Debug/net7.0/Forge.GeneratedMSBuildEditorConfig.editorconfig
+/Users/race/Documents/Forge/obj/Debug/net7.0/Forge.AssemblyInfoInputs.cache
+/Users/race/Documents/Forge/obj/Debug/net7.0/Forge.AssemblyInfo.cs
+/Users/race/Documents/Forge/obj/Debug/net7.0/Forge.csproj.CoreCompileInputs.cache
+/Users/race/Documents/Forge/bin/Debug/net7.0/Forge.deps.json
+/Users/race/Documents/Forge/bin/Debug/net7.0/Forge.dll
+/Users/race/Documents/Forge/bin/Debug/net7.0/Forge.pdb
+/Users/race/Documents/Forge/obj/Debug/net7.0/Forge.dll
+/Users/race/Documents/Forge/obj/Debug/net7.0/refint/Forge.dll
+/Users/race/Documents/Forge/obj/Debug/net7.0/Forge.pdb
+/Users/race/Documents/Forge/obj/Debug/net7.0/ref/Forge.dll

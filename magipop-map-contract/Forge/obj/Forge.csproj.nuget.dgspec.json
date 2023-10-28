@@ -1,0 +1,71 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/race/Documents/Forge/Forge.csproj": {}
+  },
+  "projects": {
+    "/Users/race/Documents/Forge/Forge.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/race/Documents/Forge/Forge.csproj",
+        "projectName": "Forge",
+        "projectPath": "/Users/race/Documents/Forge/Forge.csproj",
+        "packagesPath": "/Users/race/.nuget/packages/",
+        "outputPath": "/Users/race/Documents/Forge/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/race/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Neo.SmartContract.Framework": {
+              "target": "Package",
+              "version": "[3.6.0, )"
+            },
+            "Neo3.Compiler.CSharp.Dev": {
+              "target": "Package",
+              "version": "[3.6.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/Cellar/dotnet/7.0.100/libexec/sdk/7.0.100/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
